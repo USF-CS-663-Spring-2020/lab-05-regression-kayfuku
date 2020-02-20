@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**: Kei Fukutani  
+**USF email address**: kfukutani@dons.usfca.edu  
